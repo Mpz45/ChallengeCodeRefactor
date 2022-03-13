@@ -9,7 +9,7 @@ Patch notes:
 * Index:
 - Changed title of website to Horiseon
 
-- Changed several div tags to to correct semantic tag. This includes <Header>, <Figure>, <Nav>, <Section>, <Aside>, and <Footer> tags.
+- Changed several div tags to to correct semantic tag. This includes Header, Figure, Nav, Section, Aside, and Footer tags.
 
 - Fixed search engine optimization anchor link on the navigation bar that goes to the correct page.
 
