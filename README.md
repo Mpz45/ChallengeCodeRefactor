@@ -24,12 +24,14 @@ Patch notes:
 - Combined and removed redunant style elements. 
 Ex(
 combined
+
     .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
         margin-bottom: 10px;
         text-align: center;
     }
 
 removed
+
     .benefit-brand h3 {
         margin-bottom: 10px;
         text-align: center;
