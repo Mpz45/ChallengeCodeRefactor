@@ -3,6 +3,8 @@
 Horiseon
 
 Social marketing solutions
+Goal for this work is to make the website have some accessability. It also lacked HTML semantics in the .html file. I also decided to clean up the 
+CSS file as well.
 
 Patch notes:
 
